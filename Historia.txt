@@ -1,1 +1,3 @@
 Hola, mi nombre es Juan Pablo Alvarado y tengo 25 años
+
+Me preparo para ser un programador
